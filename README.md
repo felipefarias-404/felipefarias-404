@@ -1,6 +1,6 @@
 # Olá, eu sou Felipe Farias! 👋  
-💻 **Desenvolvedor Mobile Flutter | Especialista em Automação Comercial**  
-📍 Vitória, ES | 📧 [felipeo.farias@hotmail.com](mailto:felipeo.farias@hotmail.com)  
+💻 **Desenvolvedor Mobile Flutter**  
+📍 Serra, ES | 📧 [felipeo.farias@hotmail.com](mailto:felipeo.farias@hotmail.com)  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-farias-714414197/">
