@@ -14,7 +14,7 @@
 ---
 
 ## 🛠 **Tecnologias & Habilidades**  
-- **Mobile:** Flutter, Dart, Bloc, Clean Architecture, REST APIs  
+- **Mobile:** Flutter, Dart, Bloc, Clean Architecture
 - **Banco de Dados:** PostgreSQL, MySQL, SQL Server  
 - **Ferramentas:** Git, Android Studio, VS Code, Postman, Unity (C#)  
 - **Outros:** Geolocalização, Código de Barras, SharedPreferences, Photoshop  
