@@ -33,7 +33,7 @@
 - SQL avançado (MySQL/SQL Server) para relatórios e ajustes de dados.  
 - Suporte técnico multiplataforma (Android, iOS, Windows, Linux).  
 
-*(Experiências anteriores em administração e telemarketing disponíveis no [LinkedIn](https://www.linkedin.com/in/felipe-farias-714414197/))*  
+[LinkedIn](https://www.linkedin.com/in/felipe-farias-714414197/)
 
 ---
 
